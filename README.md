@@ -14,8 +14,9 @@ Este proyecto analiza el Flujo de Radiación de Onda Larga Saliente (ULWRF) en l
 - 🔄 Comparaciones entre eventos ENSO (El Niño, La Niña, Neutro)
 
 - 📊 Representación gráfica de los resultados
+---
 
-
+<img src="7_ciclo_multianual.gif" width="300" align="center"></img>
 ---
 
 ## 📊 Contenido del análisis
