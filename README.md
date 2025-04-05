@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Project Status](https://img.shields.io/badge/estado-en%20desarrollado-green)]()
+[![Project Status](https://img.shields.io/badge/estado%20desarrollado-green)]()
 
 Este proyecto analiza el Flujo de Radiación de Onda Larga Saliente (ULWRF) en la superficie a partir de datos climáticos en formato NetCDF. Se realizan estudios espaciales y temporales para entender la variabilidad y tendencias en los Estados Unidos, incluyendo:
 
